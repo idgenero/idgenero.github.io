@@ -1,0 +1,13 @@
+baseURL = 'http://example.org/'
+languageCode = 'pt-br'
+title = 'IdGenero'
+
+theme = "reveal-hugo"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true
