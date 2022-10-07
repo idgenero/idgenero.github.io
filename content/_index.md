@@ -1,6 +1,14 @@
 +++
 title = "IdGenero"
 outputs = ["Reveal"]
+[reveal_hugo]
+custom_theme = "reveal-hugo/themes/robot-lung.css"
+custom_css = "styles.css"
+margin = 0.2
+highlight_theme = "color-brewer"
+transition = "slide"
+transition_speed = "fast"
+
 +++
 
 ### Identidade de Gênero
