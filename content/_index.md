@@ -32,11 +32,21 @@ A Transexualidade é uma das diversas possibilidades de identidade de gênero. Q
 
 É comum ouvir relatos sobre o momento em que estas pessoas se entendem como transexuais. A grande maioria afirma que sentiram estranheza ou desconforto durante a infância, mas só entenderam a questão durante a adolescência. Este período é, em geral, repleto de sofrimentos e angústias, pois a adolescência por si já é uma fase difícil, com a descoberta da definição da personalidade, a necessidade de aceitação social e os conflitos por autonomia.
 
-(Você pode passar pra baixo também!)
+<br>
+<small>
+Clique na seta ou deslize para baixo para saber mais sobre! 
+</small>
+<br>
+<a href="#" class="navigate-down">🔽</a>
 
 --- 
 
 Para somar, a pessoa transexual precisa lidar com o desenvolvimento do corpo, aumento de hormônios relacionado ao sexo biológico e desenvolvimento de interesse sexual. Em diversas histórias, estas questões colocam o adolescente em situações de preconceito, exclusão social e violência física e/ou psicológica
+
+<br>
+<small>
+Agora é pra direita mesmo!
+</small>
 
 {{% /section %}}
 
@@ -46,6 +56,14 @@ Para somar, a pessoa transexual precisa lidar com o desenvolvimento do corpo, au
 #### Diferença entre transgêneros, travestis e transexuais
 
 Transgênero é uma expressão que contempla vários casos de pessoas que se identificam com um gênero diferente do sexo biológico.
+
+<br>
+<small>
+Clique na seta ou deslize para baixo para saber mais sobre! 
+</small>
+<br>
+<a href="#" class="navigate-down">🔽</a>
+
 
 ---
 
@@ -59,6 +77,11 @@ Não se identifica com o sexo biológico. Pode trocar de nome e gênero, utiliza
  
 Vivenciam papeis de gênero diferentes do seu, mas não se reconhecem como homens ou mulheres, são de uma identidade diferente. Preferem ser tratadas no feminino e é considerado insulto usar adjetivos masculinos para se referir a elas.
 
+<br>
+<small>
+Agora é pra direita mesmo!
+</small>
+
 {{% /section %}}
 
 ---
@@ -68,37 +91,55 @@ Vivenciam papeis de gênero diferentes do seu, mas não se reconhecem como homen
 
 #### Orientação sexual e heteronormatividade
 
-A orientação sexual é definida de acordo com o gênero que a pessoa se identifica e por qual gênero essa pessoa sente atração sexual e cria laços românticos. Veja abaixo:
+A orientação sexual é definida de acordo com o gênero que a pessoa se identifica e por qual gênero essa pessoa sente atração sexual e cria laços românticos.
+<br>
+<small>
+Clique na seta ou deslize para baixo para saber mais sobre! 
+</small>
+<br>
+<a href="#" class="navigate-down">🔽</a>
 
 ---
 
 ###### Heterossexual
 
 Tem atração por alguém de outro gênero;
+<br>
+<a href="#" class="navigate-down">🔽</a>
 
 ---
 
 ###### Homossexual
 
-Tem atração por alguém de outro gênero;
+Tem atração pelo mesmo gênero;
+<br>
+<a href="#" class="navigate-down">🔽</a>
 
 ---
 
 ###### Bissexual
 
-Tem atração por ambos;
+Tem atração por ambos os gêneros;
+<br>
+<a href="#" class="navigate-down">🔽</a>
 
 ---
 
 ###### Assexual
 
 Ausência de desejo sexual por qualquer gênero. Em alguns casos pode sentir atração romântica por um gênero ou por ambos, em situações específicas, sem atração sexual.
+<br>
+<a href="#" class="navigate-down">🔽</a>
 
 ---
 
 ###### Pansexual
 
 Não se importa com a identidade de gênero, se atraem por outras características.
+<br>
+<small>
+Agora é pra direita mesmo!
+</small>
 
 {{% /section %}}
 
@@ -114,8 +155,6 @@ A orientação sexual tem um grande espectro e é muito complexa. As nomenclatur
 
 ---
 
-{{% section %}}
-
 #### A diferença entre orientação sexual e identidade de gênero
 
 Como você viu, os conceitos são diferentes. Isso significa que uma pessoa pode ser transgênero (transexual ou travesti) e ser heterossexual, homossexual, bissexual etc. Então, agora você entende por que isso acontece.
@@ -123,5 +162,3 @@ Como você viu, os conceitos são diferentes. Isso significa que uma pessoa pode
 ---
 
 Compartilhe este site com outras pessoas e ajude a espalhar informações para combatermos juntos o preconceito e promovermos o respeito à diversidade!
-
-{{% /section %}}
