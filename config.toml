@@ -16,4 +16,3 @@ isHTML = true
 
 [params.reveal_hugo]
 custom_theme = "reveal-hugo/themes/robot-lung.css"
-favicon = 'favicon.ico'
