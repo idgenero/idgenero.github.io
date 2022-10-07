@@ -2,6 +2,8 @@ baseURL = 'https://idgenero.github.io'
 languageCode = 'pt-br'
 title = 'IdGenero'
 
+
+
 theme = "reveal-hugo"
 
 [markup.goldmark.renderer]
@@ -14,3 +16,4 @@ isHTML = true
 
 [params.reveal_hugo]
 custom_theme = "reveal-hugo/themes/robot-lung.css"
+favicon = 'favicon.ico'

@@ -92,6 +92,7 @@ Agora é pra direita mesmo!
 #### Orientação sexual e heteronormatividade
 
 A orientação sexual é definida de acordo com o gênero que a pessoa se identifica e por qual gênero essa pessoa sente atração sexual e cria laços românticos.
+
 <br>
 <small>
 Clique na seta ou deslize para baixo para saber mais sobre! 
@@ -104,38 +105,33 @@ Clique na seta ou deslize para baixo para saber mais sobre!
 ###### Heterossexual
 
 Tem atração por alguém de outro gênero;
-<br>
-<a href="#" class="navigate-down">🔽</a>
+
 
 ---
 
 ###### Homossexual
 
 Tem atração pelo mesmo gênero;
-<br>
-<a href="#" class="navigate-down">🔽</a>
 
 ---
 
 ###### Bissexual
 
 Tem atração por ambos os gêneros;
-<br>
-<a href="#" class="navigate-down">🔽</a>
+
 
 ---
 
 ###### Assexual
 
 Ausência de desejo sexual por qualquer gênero. Em alguns casos pode sentir atração romântica por um gênero ou por ambos, em situações específicas, sem atração sexual.
-<br>
-<a href="#" class="navigate-down">🔽</a>
 
 ---
 
 ###### Pansexual
 
 Não se importa com a identidade de gênero, se atraem por outras características.
+
 <br>
 <small>
 Agora é pra direita mesmo!
@@ -160,5 +156,7 @@ A orientação sexual tem um grande espectro e é muito complexa. As nomenclatur
 Como você viu, os conceitos são diferentes. Isso significa que uma pessoa pode ser transgênero (transexual ou travesti) e ser heterossexual, homossexual, bissexual etc. Então, agora você entende por que isso acontece.
 
 ---
+
+#### Compartilhe!
 
 Compartilhe este site com outras pessoas e ajude a espalhar informações para combatermos juntos o preconceito e promovermos o respeito à diversidade!
