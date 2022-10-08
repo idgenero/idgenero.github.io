@@ -1,5 +1,5 @@
 +++
-weigth = 50
+weight = 50
 +++
 
 #### A diferença entre orientação sexual e identidade de gênero
