@@ -24,7 +24,7 @@ Para somar, a pessoa transexual precisa lidar com o desenvolvimento do corpo, au
 
 #### Diferença entre transgêneros, transexuais e travestis
 
-Transgênero é uma expressão que contempla vários casos de pessoas que se identificam com um gênero diferente do sexo biológico. Ele inclui ->
+Transgênero é uma expressão que contempla vários casos de pessoas que se identificam com um gênero diferente do sexo biológico. Ele inclui ➡️
 
 ---
 
