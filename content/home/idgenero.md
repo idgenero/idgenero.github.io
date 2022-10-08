@@ -9,10 +9,6 @@ Quando um bebê nasce, ou mesmo durante a gestação, o profissional identifica,
 
 ---
 
-Quando um bebê nasce, ou mesmo durante a gestação, o profissional identifica, por meio da genitália se é um menino ou uma menina. Isso é comum, o problema é o que ocorre depois.
-
----
-
 Com o passar dos anos, aquela pessoa pode não se identificar com seu sexo biológico, gerando sentimentos conflituosos, como se tivesse “nascido no corpo errado”.  Essa sensação se manifesta desde a infância e não tem a ver com a orientação sexual.
 
 ---
@@ -33,4 +29,4 @@ Pessoas que se identificam com o gênero que nasceram são chamadas de <strong>c
 
 ---
 
-Essa ação anula a existência das outras identidades de gênero e podem gerar problemas psicológicos. Uma consequência é a taxa elevada de suicídio entre a população trans.  Ela também se reflete na rejeição da família, dificuldade de emprego e renda e violência.
+Essa ação anula a existência das outras identidades de gênero e podem gerar problemas psicológicos. Uma consequência é a taxa elevada de suicídio entre a população trans.  Ela também se reflete na rejeição da família, dificuldade de emprego,  renda e violência.

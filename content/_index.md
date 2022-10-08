@@ -16,4 +16,4 @@ transition_speed = "fast"
 Eu quero te mostrar quem sou!
 
 
-Clica ali na setinha azul 👇 ou passa pro lado!  
+Clica ali na setinha azul ou passa pro lado!  
